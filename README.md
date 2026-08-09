@@ -49,4 +49,10 @@ I create content that goes beyond simply writing code. My goal is to make backen
 
 ### ✨ The bigger mission
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I'm creating a space for developers -- especially women and girls interested in technology -- to learn, build confidence, and see what a career in tech can look like.
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I’m creating a space for developers to learn, build, and grow.
+
+With more than 20 years in tech, I share the practical knowledge, lessons, and experiences I’ve gained throughout my career—from backend development and databases to cloud, APIs, and exploring how AI is changing the way we build software.
+
+I’m especially passionate about encouraging women and girls interested in technology to build their skills, gain confidence, and see themselves as capable of building meaningful careers in tech.
+
+Whether you’re writing your first lines of code, leveling up your development skills, or exploring what’s next in your career, I hope you’ll find something here that helps you learn something new, build something useful, and keep moving forward.

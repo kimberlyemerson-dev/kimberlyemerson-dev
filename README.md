@@ -33,4 +33,4 @@ I create content that goes beyond simply writing code. My goal is to make backen
 
 ### 🚀 The bigger mission
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I'm creating a space for developers—especially women and girls interested in technolo0y—to learn, build confidence, and see what a career in tech can look like.
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I'm creating a space for developers—especially women and girls interested in technology -- to learn, build confidence, and see what a career in tech can look like.

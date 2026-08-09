@@ -51,8 +51,10 @@ I create content that goes beyond simply writing code. My goal is to make backen
 
 <img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I’m creating a space for developers to learn, build, and grow.
 
-With more than 20 years in tech, I share the practical knowledge, lessons, and experiences I’ve gained throughout my career—from backend development and databases to cloud, APIs, and exploring how AI is changing the way we build software.
+After 20+ years in tech, I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
 
-I’m especially passionate about encouraging women and girls interested in technology to build their skills, gain confidence, and see themselves as capable of building meaningful careers in tech.
+I’m especially passionate about helping women and girls in technology build technical skills, confidence, and a clearer path forward in their careers.
 
-Whether you’re writing your first lines of code, leveling up your development skills, or exploring what’s next in your career, I hope you’ll find something here that helps you learn something new, build something useful, and keep moving forward.
+This GitHub is where I share the code, experiments, projects, and ideas behind what I teach across my content.
+
+Learn something. Build something. Share what you discover.

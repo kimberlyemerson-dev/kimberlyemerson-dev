@@ -33,6 +33,6 @@ I create content that goes beyond simply writing code. My goal is to make backen
 
 ### 🚀 The bigger mission
 
-**Build. Learn. Share.**
+![Build. Learn. Share.](https://github.com/kimberlyemerson-dev/kimberlyemerson-dev/blob/main/images/build-learn-share.png)
 
 I'm creating a space for developers—especially women and girls interested in technology—to learn, build confidence, and see what a career in tech can look like.

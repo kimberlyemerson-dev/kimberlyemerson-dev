@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/kimberly-emerson/kimberlyemerson-dev/main/images/kimberlyemerson-dev-banner.png)
+![Header](https://github.com/kimberlyemerson-dev/kimberlyemerson-dev/blob/main/images/kimberlyemerson-dev-banner.png)
 
 <div align="left">
 

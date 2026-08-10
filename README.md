@@ -7,7 +7,7 @@
 
 # 👋 Hi, I'm Kimberly Emerson
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="40%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
 
 After 20+ years in tech, I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
 

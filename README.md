@@ -15,6 +15,8 @@ I'm especially passionate about encouraging women and girls to explore technolog
 
 Learn something. Build something. Share what you discover.
 
+<div style='line-break-after: always;'></div>
+
 <!-- 
 ### 🚀 About Me
 - 🔭 I’m currently working on ...

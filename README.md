@@ -9,22 +9,7 @@ I'm sharing practical lessons from real-world backend development, databases, AP
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves building a career in tech.
 
 **Learn something. Build something. Share what you discover.**  
-
-<!-- 
-### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-
-### 🛠️ Tech Stack & Tools
-- **Languages:** JavaScript, Python, HTML/CSS
-- **Frameworks:** React, Node.js
-- **Tools:** Git, VS Code, Docker
--->
-
-<div style='line-break-after: always;'></div>
-
+<br />
 ## 📍 Where You Can Find Me
 
 I share different sides of the developer journey across the web—from backend deep dives and coding tutorials to the things I’m learning, building, and exploring along the way.
@@ -61,3 +46,11 @@ Longer thoughts, career lessons, experiences, and deeper discussions.
 * Azure and cloud-focused projects
 * AI experiments for backend developers
 * Code and examples that support my tutorials and videos
+
+<!-- 
+### 🚀 About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+-->

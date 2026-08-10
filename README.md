@@ -1,4 +1,4 @@
-![Header](https://github.com/kimberlyemerson-dev/kimberlyemerson-dev/blob/main/images/kimberlyemerson-dev-banner.png)
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/kimberlyemerson-dev-banner.png" width="100%" alt="@kimberlyemerson-dev Profile Banner" />
 
 <div align="left">
 
@@ -13,9 +13,9 @@ After 20+ years in tech, I’m sharing what I’ve learned along the way—from 
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves in a career in tech.
 
-Learn something. Build something. Share what you discover.
+Learn something. Build something. Share what you discover.  
 
-<div style='line-break-after: always;'></div>
+---
 
 <!-- 
 ### 🚀 About Me
@@ -30,7 +30,7 @@ Learn something. Build something. Share what you discover.
 - **Tools:** Git, VS Code, Docker
 -->
 
-### *️⃣ What you'll find here
+## *️⃣ What You'll Find Here
 
 * Backend development projects
 * SQL and database examples
@@ -40,7 +40,9 @@ Learn something. Build something. Share what you discover.
 * AI experiments for backend developers
 * Code and examples that support my tutorials and videos
 
-### 🎦 Learn with me
+---
+
+## 🎦 Learn With Me
 
 I create content that goes beyond simply writing code. My goal is to make backend development easier to understand while sharing the lessons I've learned throughout my career.
 
@@ -49,4 +51,3 @@ I create content that goes beyond simply writing code. My goal is to make backen
 | **YouTube**  | Deep dives, tutorials, experiments, and developer conversations |
 | **Short-form** | Quick coding lessons, tips, and behind-the-scenes content      |
 | **Writing**  | Deeper thoughts, technical breakdowns, and lessons from the field |
-

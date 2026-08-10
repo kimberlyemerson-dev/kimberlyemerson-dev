@@ -7,11 +7,13 @@
 
 # 👋 Hi, I'm Kimberly Emerson
 
-**Backend Developer • 20+ Years in Tech • Educator & Creator**
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
 
-I’m a backend developer with 20+ years of experience building software and solving real-world technical problems.
+After 20+ years in tech, I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
 
-This GitHub is where I **build, experiment, learn, and share**—from backend development and SQL to Python, .NET, Azure, APIs, and exploring how **AI fits into modern backend development**.
+I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves in a career in tech.
+
+Learn something. Build something. Share what you discover.
 
 <!-- 
 ### 🚀 About Me
@@ -46,15 +48,3 @@ I create content that goes beyond simply writing code. My goal is to make backen
 | **Short-form** | Quick coding lessons, tips, and behind-the-scenes content      |
 | **Writing**  | Deeper thoughts, technical breakdowns, and lessons from the field |
 
-
-### ✨ The bigger mission
-
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="33%" style="margin: 50px:float: left;" alt="Build. Learn. Share" /> I’m creating a space for developers to learn, build, and grow.
-
-After 20+ years in tech, I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
-
-I’m especially passionate about helping women and girls in technology build technical skills, confidence, and a clearer path forward in their careers.
-
-This GitHub is where I share the code, experiments, projects, and ideas behind what I teach across my content.
-
-Learn something. Build something. Share what you discover.

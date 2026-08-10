@@ -5,11 +5,13 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
 </div>
 
-# 👋 Hi, I'm Kimberly Emerson
+# 👋 Hello
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson, a backend developer with 20+ years in tech. 
 
-After 20+ years in tech, I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
+I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
+
+I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves in a career in tech.
 

@@ -16,7 +16,7 @@ I'm especially passionate about encouraging women and girls to explore technolog
 Learn something. Build something. Share what you discover.
 
 <br />
-
+<br />
 <!-- 
 ### 🚀 About Me
 - 🔭 I’m currently working on ...

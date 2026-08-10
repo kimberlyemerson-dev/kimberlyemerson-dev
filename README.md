@@ -4,15 +4,34 @@
 
 <img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 0 10 20 0;float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson. After 20+ years building software, I'm sharing what I've learned—and creating a space where developers can learn, build, and grow.
 
-I'm sharing practical lessons from real-world backend development, databases, APIs, cloud, and AI, along with what I've learned throughout my career.
+Here you'll find practical lessons from real-world backend development, databases, APIs, cloud, and AI, along with insights I've gained throughout my career.
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves building a career in tech.
 
 **Learn something. Build something. Share what you discover.**  
 <br />
+
+## 📦 What You'll Find Here
+
+* Backend development projects
+* SQL and database examples
+* Python projects and experiments
+* .NET and API development
+* Azure and cloud-focused projects
+* AI experiments for backend developers
+* Code and examples that support my tutorials and videos
+
+<!-- 
+### 🚀 About Me
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 💬 Ask me about ...
+-->
+
 ## 📍 Where You Can Find Me
 
-I share different sides of the developer journey across the web—from backend deep dives and coding tutorials to the things I’m learning, building, and exploring along the way.
+I share different parts of the developer journey across the web—from backend deep dives and coding tutorials to the things I'm learning, building, and exploring along the way.
 
 | Platform | Content |
 |---------|-------------|
@@ -35,22 +54,4 @@ Ideas, observations, conversations, developer community.
 
 Substack → Reflect
 Longer thoughts, career lessons, experiences, and deeper discussions.
--->
-
-## 📦 What You'll Find Here
-
-* Backend development projects
-* SQL and database examples
-* Python projects and experiments
-* .NET and API development
-* Azure and cloud-focused projects
-* AI experiments for backend developers
-* Code and examples that support my tutorials and videos
-
-<!-- 
-### 🚀 About Me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
 -->

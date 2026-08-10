@@ -13,9 +13,9 @@ After 20+ years in tech, I’m sharing what I’ve learned along the way—from 
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves in a career in tech.
 
-Learn something. Build something. Share what you discover.  
+Learn something. Build something. Share what you discover.
 
----
+<br />
 
 <!-- 
 ### 🚀 About Me
@@ -29,7 +29,6 @@ Learn something. Build something. Share what you discover.
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, Docker
 -->
-
 ## *️⃣ What You'll Find Here
 
 * Backend development projects
@@ -39,8 +38,6 @@ Learn something. Build something. Share what you discover.
 * Azure and cloud-focused projects
 * AI experiments for backend developers
 * Code and examples that support my tutorials and videos
-
----
 
 ## 🎦 Learn With Me
 

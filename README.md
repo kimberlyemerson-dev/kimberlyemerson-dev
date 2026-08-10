@@ -1,21 +1,14 @@
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/kimberlyemerson-dev-banner.png" width="100%" alt="@kimberlyemerson-dev Profile Banner" />
-
-<div align="left">
-
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev)
-</div>
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/kimberlyemerson-dev-banner.png" width="100%" alt="@kimberlyemerson-dev Profile Banner" />  
 
 # 👋 Hello
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson, a backend developer with 20+ years in tech. 
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson. After 20+ years building software, I'm sharing what I've learned—and creating a space where developers can learn, build, and grow.
 
-I'm creating a space for developers to learn, build, and grow — with practical lessons from real-world backend development, databases, APIs, cloud, and AI.
+I'm sharing practical lessons from real-world backend development, databases, APIs, cloud, and AI, along with what I've learned throughout my career.
 
-I’m sharing what I’ve learned along the way—from backend development, SQL, Python, .NET, and Azure to APIs and exploring where AI fits into modern software development.
+I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves building a career in tech.
 
-I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves in a career in tech.
-
-Learn something. Build something. Share what you discover.
+**Learn something. Build something. Share what you discover.**
 
 <!-- 
 ### 🚀 About Me
@@ -29,7 +22,35 @@ Learn something. Build something. Share what you discover.
 - **Frameworks:** React, Node.js
 - **Tools:** Git, VS Code, Docker
 -->
-## *️⃣ What You'll Find Here
+
+## 📍 Where You Can Find Me
+
+I share different sides of the developer journey across the web—from backend deep dives and coding tutorials to the things I’m learning, building, and exploring along the way.
+
+| Platform | Content |
+|---------|-------------|
+| [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@kimberlyemersondev) | Backend development, SQL, Python, .NET, APIs, Azure, AI, and lessons from 20+ years in tech. |
+| [![BlueSky](https://img.shields.io/badge/BlueSky-1DA1F2?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/kimberly-emerson.bsky.social) | Thoughts on software development, tech, learning, and the journey behind the code. |
+| [![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://www.substack.com/@kimberlyemerson) | Longer-form thoughts, developer lessons, and conversations about building a career in tech. |
+| [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@kimberlyemerson) | Quick coding lessons, developer tips, behind-the-scenes moments, and the real-life side of building a career and creating in tech. |
+
+Different platforms, different conversations. Same goal: learn something, build something, and share what you discover.
+
+<!--
+YouTube → Teach
+Deep technical knowledge, backend development, tutorials, projects.
+
+TikTok → Show
+Quick lessons + BTS + your personality + what happens behind the scenes.
+
+Bluesky → Talk
+Ideas, observations, conversations, developer community.
+
+Substack → Reflect
+Longer thoughts, career lessons, experiences, and deeper discussions.
+-->
+
+## 📦 What You'll Find Here
 
 * Backend development projects
 * SQL and database examples
@@ -38,13 +59,3 @@ Learn something. Build something. Share what you discover.
 * Azure and cloud-focused projects
 * AI experiments for backend developers
 * Code and examples that support my tutorials and videos
-
-## 🎦 Learn With Me
-
-I create content that goes beyond simply writing code. My goal is to make backend development easier to understand while sharing the lessons I've learned throughout my career.
-
-| Platform     | Focus Areas                                                     |
-|--------------|-----------------------------------------------------------------|
-| **YouTube**  | Deep dives, tutorials, experiments, and developer conversations |
-| **Short-form** | Quick coding lessons, tips, and behind-the-scenes content      |
-| **Writing**  | Deeper thoughts, technical breakdowns, and lessons from the field |

@@ -2,13 +2,11 @@
 
 # 👋 Hello
 
-<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 50px:float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson. After 20+ years building software, I'm sharing what I've learned—and creating a space where developers can learn, build, and grow.
+<img src="https://raw.githubusercontent.com/kimberlyemerson-dev/kimberlyemerson-dev/main/images/build-learn-share.png" align="left" width="25%" style="margin: 0 10 20 0;float: left;" alt="Build. Learn. Share" />I'm Kimberly Emerson. After 20+ years building software, I'm sharing what I've learned—and creating a space where developers can learn, build, and grow.
 
 I'm sharing practical lessons from real-world backend development, databases, APIs, cloud, and AI, along with what I've learned throughout my career.
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves building a career in tech.
-
-<br />
 
 **Learn something. Build something. Share what you discover.**  
 

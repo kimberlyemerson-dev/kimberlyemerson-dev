@@ -8,7 +8,9 @@ I'm sharing practical lessons from real-world backend development, databases, AP
 
 I'm especially passionate about encouraging women and girls to explore technology, build confidence, and see themselves building a career in tech.
 
-**Learn something. Build something. Share what you discover.**
+<br />
+
+**Learn something. Build something. Share what you discover.**  
 
 <!-- 
 ### 🚀 About Me

@@ -23,6 +23,8 @@ I'm especially passionate about encouraging women and girls to explore technolog
 - **Tools:** Git, VS Code, Docker
 -->
 
+<div style='line-break-after: always;'></div>
+
 ## 📍 Where You Can Find Me
 
 I share different sides of the developer journey across the web—from backend deep dives and coding tutorials to the things I’m learning, building, and exploring along the way.
